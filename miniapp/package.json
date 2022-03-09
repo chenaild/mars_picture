@@ -1,0 +1,108 @@
+{  	
+	"id": "wallpaper-huoxingtushe",
+	"name": "火星图社",
+	"version": "1.1.0",
+	"description": "小程序",
+	"keywords": [
+
+    ],
+	"dcloudext": {
+	    "category": [
+	        "uniCloud",
+	        "云端一体项目模板"
+        ],
+        "sale": {
+            "regular": {
+                "price": "69"
+            },
+            "sourcecode": {
+                "price": "0.00"
+            }
+        },
+        "contact": {
+            "qq": "642114215"
+        },
+        "declaration": {
+            "ads": "无",
+            "data": "插件不采集任何数据",
+            "permissions": "无"
+        },
+        "npmurl": ""
+	},
+    "uni_modules": {  
+        "encrypt": [  
+            "uniCloud-aliyun/cloudfunctions/access_token/index.js",
+			"uniCloud-aliyun/cloudfunctions/charge_add/index.js",
+			"uniCloud-aliyun/cloudfunctions/config_map/index.js",
+			"uniCloud-aliyun/cloudfunctions/cover_autosave/index.js",
+			"uniCloud-aliyun/cloudfunctions/cover_getlist/index.js",
+			"uniCloud-aliyun/cloudfunctions/cover_getlist/api.js",
+			"uniCloud-aliyun/cloudfunctions/payment/index.js",
+			"uniCloud-aliyun/cloudfunctions/place_design/index.js",
+			"uniCloud-aliyun/cloudfunctions/place_order/index.js",
+			"uniCloud-aliyun/cloudfunctions/query_category/index.js",
+			"uniCloud-aliyun/cloudfunctions/query_count/index.js",
+			"uniCloud-aliyun/cloudfunctions/query_del/index.js",
+			"uniCloud-aliyun/cloudfunctions/query_edit/index.js",
+			"uniCloud-aliyun/cloudfunctions/query_list/index.js",
+			"uniCloud-aliyun/cloudfunctions/query_map/index.js",
+			"uniCloud-aliyun/cloudfunctions/sign_add/index.js",
+			"uniCloud-aliyun/cloudfunctions/sign_flag/index.js",
+			"uniCloud-aliyun/cloudfunctions/template_send/index.js",
+            "uniCloud-aliyun/cloudfunctions/user_authorize/index.js",
+			"uniCloud-aliyun/cloudfunctions/user_integral/index.js",
+			"uniCloud-aliyun/cloudfunctions/view_raise/index.js",
+			"uniCloud-aliyun/cloudfunctions/zan_and_coll/index.js",
+			
+			"pages/utils/api.js"
+        ],
+        "platforms": {
+            "cloud": {
+                "tcb": "y",
+                "aliyun": "y"
+            },
+            "client": {
+                "Vue": {
+                    "vue2": "u",
+                    "vue3": "u"
+                },
+                "App": {
+                    "app-vue": "u",
+                    "app-nvue": "u"
+                },
+                "H5-mobile": {
+                    "Safari": "u",
+                    "Android Browser": "u",
+                    "微信浏览器(Android)": "u",
+                    "QQ浏览器(Android)": "u"
+                },
+                "H5-pc": {
+                    "Chrome": "u",
+                    "IE": "u",
+                    "Edge": "u",
+                    "Firefox": "u",
+                    "Safari": "u"
+                },
+                "小程序": {
+                    "微信": "y",
+                    "阿里": "u",
+                    "百度": "u",
+                    "字节跳动": "u",
+                    "QQ": "u"
+                },
+                "快应用": {
+                    "华为": "u",
+                    "联盟": "u"
+                }
+            }
+        },
+		"extends" : {
+			"sn" : "H1FCHxEYlgoKQDwZKhoT5/4L35fywiKey/qRiNQWm4zJGldC75+sHuP3GOVVu40Es4VERB8nY3sB/lE9bawoOcKtF1RYFosQkk3VqJDYxjxl4Xd0ufcMgvAXTylhtlg3G7CiDTZYNlcZMnOeI3JNbJ2a7FtR/9g0PPOL9KEnSle4jRmhytQXvJnLmJaeyVg5+cT80fSymmGWvFWcuH9zL32Ur+94bMjlSbXzdDS1c53Re4tEyd2fmosNN6CF92UQh3nSxy1NgIS4hfPZcDpI9UdF42F6kgW73TbWka/3uKIhJXTx8SrpPsHLoqkg4EoKT198dkS7Ww312No7GU8DH8rwNMWnSCJZWKSaqZ4lBoi5A9CUEE+PDGQLnmktjlzNXv+KC9tOfzxdUDYotV0Hj6uMmf3bfXaV9H7JyMD3JKwGSkPgohEJZ7v3dwBEaAevD2tyW2vR52m9q/iLmLtgpRumxMzwdOv4/RCD5dH8CuQ="
+		}
+    },
+    "displayName": "火星图社",
+    "repository": "",
+    "engines": {
+        "HBuilderX": "^3.3.1"
+    }
+}

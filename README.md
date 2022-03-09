@@ -10,7 +10,7 @@
 
 
 ---
-- github仓库：https://github.com/chenaild/mars_picture- [火星图社](#火星图社)
+- github仓库：https://github.com/chenaild/mars_picture
 - gitee仓库：https://gitee.com/chenaild/mars_picture
 ---
 
